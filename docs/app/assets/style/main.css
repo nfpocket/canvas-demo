@@ -4,9 +4,12 @@
 @import "./animation.css";
 
 @theme {
-  --font-newsreader: "Newsreader", serif;
+  /* --font-newsreader: "Newsreader", serif;
   --font-geist: "Geist", sans-serif;
-  --font-mono: "Geist Mono", sans-serif;
+  --font-mono: "Geist Mono", sans-serif; */
+  --font-newsreader: serif;
+  --font-geist: sans-serif;
+  --font-mono: sans-serif;
 
   --color-main: var(--ui-bg);
   --color-secondary: var(--color-secondary);
